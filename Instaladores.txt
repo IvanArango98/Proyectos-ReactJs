@@ -1,0 +1,29 @@
+RED SOCIAL
+
+create-react-app nobre
+
+npm i -S axios redux react-router react-router-dom react-redux redux-thunk react-router-redux
+npm install -S materialize-css
+npm install -S react-spinners
+
+LOG IN
+clonar este repositorio
+https://github.com/juanortiz10/redux-router-skeleton
+
+npm install
+
+REACT FACEBOOK LOGIN
+npm install react react-dom react-facebook-login --save --force
+ir a pagina web facebook developer y crear id de app
+
+REACT GMAIL LOGIN
+https://github.com/anthonyjgrove/react-google-login
+npm install react-google-login
+
+ir a google api console y crear un nuevo proyecto
+crear credenciales al proyecto
+ID CLIENTE OAUTH
+
+https://materializecss.com/
+i -S materialize-css
+
