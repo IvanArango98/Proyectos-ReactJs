@@ -1,0 +1,60 @@
+.UserDetailCover
+{ 
+    background-color:lightblue ;
+    height: 40vh;
+}
+
+
+.UserDetailBody
+{
+    background-color: #e8e8e8;
+    height: 60vh;
+    
+}
+
+.UserDetailCover-img
+{
+    width: 200px;
+
+}
+
+.UserDetailCover-arriba
+{
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;        
+}
+
+.UserDetailCover-abajo
+{
+    
+    display:flex;    
+    align-items: center;
+    justify-content: center;
+    height: 1vh;    
+}
+
+.UserPost
+{
+    display: flex;
+    flex-direction: column;
+    background-color: lightcyan;
+    margin: 4% 30% 1% 30%;
+}
+
+.UserPost > h1,
+.UserPost > h2
+{
+    font-family: 'Montserrat',sans-serif;
+    margin: 0;
+}
+
+.UserPost > h1{
+    font-size: 2em;
+}
+
+.UserPost > h2{
+    font-size: 1em;
+}
+
