@@ -27,3 +27,12 @@ ID CLIENTE OAUTH
 https://materializecss.com/
 i -S materialize-css
 
+GoogleMaps
+npm install --save materialize-css
+npm install --save react-google-maps
+IR A CONSOLE DEVELEPORS GOOGLE
+CREAR PROYECTO
+HABILITAD MAPS JAVASCRIPT API
+En archivo index.html
+ <script src="https://maps.googleapis.com/maps/api/js?key=APIKEY"></script>
+
